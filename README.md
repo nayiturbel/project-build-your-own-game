@@ -21,6 +21,7 @@ Write a short description of your project. Write 1-2 sentences about what what y
 ## Workflow
 Outline the workflow you used in your project. What were the steps you went through?
 
+<img src="https://ibb.co/q0CttBJ" alt="Workflow" width="100"/>
 <a name="organization"></a>
 
 ## Organization
